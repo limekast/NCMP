@@ -40,4 +40,8 @@
 <h3 id="subscribers">Subscribers</h3>
 <p>Subscribers are end users (humans or machines) who consume the information that is made available on a channel. Subscribers need to explicitly (could be programmatically though, based on channel property settings) <strong>Subscribe</strong> to a channel to be able to access information available on a channel.</p>
 <h1 id="app-administration">App Administration</h1>
+<p>The platform supports distributed administration across a number of different app and channel administrators, thereby reducing the app administration and upkeep overhead on one single person.</p>
+<p>The app administration can be done by one or more administrators. On account creation, there is <strong>ONE</strong> app administrator who has rights to administer all aspects of the app. This administrator can in turn create other app administrators and specify privileges (under App -&gt; User Management -&gt; App Administrators)</p>
+<h2 id="channel-administration">Channel Administration</h2>
+<p>The app administrator can further assign channel level administrators.</p>
 
