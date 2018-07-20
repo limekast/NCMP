@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="overview">Overview</h1>
+<h1 id="dashboard">Dashboard</h1>
 <p>This is where you can see all the channels that are visible to the users on the iOS or Android mobile apps.</p>
 <p><em>Note : The exact channels the users see on the mobile app however depends on a number of other parameters such as which channels are <strong>Open</strong> and which are <strong>Closed</strong> and then if the user is invited to a <strong>Closed</strong> channel.</em></p>
 <h2 id="support-for-2-views">Support for 2 views</h2>
