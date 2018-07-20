@@ -42,6 +42,22 @@
 <h1 id="app-administration">App Administration</h1>
 <p>The platform supports distributed administration across a number of different app and channel administrators, thereby reducing the app administration and upkeep overhead on one single person.</p>
 <p>The app administration can be done by one or more administrators. On account creation, there is <strong>ONE</strong> app administrator who has rights to administer all aspects of the app. This administrator can in turn create other app administrators and specify privileges (under App -&gt; User Management -&gt; App Administrators)</p>
-<h2 id="channel-administration">Channel Administration</h2>
-<p>The app administrator can further assign channel level administrators.</p>
+<h1 id="channel-administration">Channel Administration</h1>
+<p>The app administrator can further assign channel level administrators. Each channel can have one or more channel administrators.</p>
+<p>Each of the channel administrators can further be assigned privileges to administer different aspects of the channel. For instance, a certain channel administrator may be allowed to manage the subscriber in the channel but not allowed to administer contents in the channel.</p>
+<h1 id="forms">Forms</h1>
+<p>Forms are a central part to the solution and it is a key component which allows for structuring data that is managed in the platform.</p>
+<p>The usage of forms can be broadly categorized across 2 areas</p>
+<ul>
+<li>To present data in a formatted manner (Output)</li>
+<li>To collet data from end users on mobile devices in a structured and formatted manner (Input)</li>
+</ul>
+<p>The structure to the content (either Input or Output) is designed by using the ‘Form Designer’ which is made available in this portal as part of the solution. The ‘Form Designer’ however is access controlled and the app administrator can make this available to other app administrators on a need basis.</p>
+<p>For details on how to use the ‘Form Designer’, look up the Help section under ‘Form Designer’</p>
+<h1 id="open-apis">Open APIs</h1>
+<p>The platform supports a number of Open APIs which helps integrate other IT systems into this communication/collaboration platform. APIs are what can enable other systems to fire messages to users in the App, retrieve metrics relating to users, subscribers to a channel, get channel properties etc.</p>
+<p>For details on how to use the APIs, look up the Help section under APIs.</p>
+<h1 id="mobile-apps">Mobile Apps</h1>
+<p>Finally, all of the administration that happens here on the web portal is to make the iOS and Android Mobile Apps behave and function a certain way.</p>
+<p>Across the Help sections here, reference will be made to the mobile apps as and when relevant.</p>
 
