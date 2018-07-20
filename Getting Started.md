@@ -23,9 +23,9 @@
 <h1 id="what-next-">What next ?</h1>
 <p>With the above basic understanding of the platform’s design and intended usage (in an enterprise), you are now ready to go on to the next sections and understand how to configure the app to suit your specific business needs relating to communication and collaboration.</p>
 <h2 id="channels-and-subscribers">Channels and Subscribers</h2>
-<p>Channels and Subscribers are two fundamental conceptual building blocks making up th No-Code Mobility platform. Having a clear and good understanding of these will go a long way in app administrators being able to solution the platform to well defined communication and collaboration needs of the business.</p>
+<p>Channels and Subscribers are two fundamental conceptual building blocks making up the <em>No-Code Mobility platform</em>. Having a clear and good understanding of these will go a long way in app administrators being able to solution the platform to well defined communication and collaboration needs of the business.</p>
 <h3 id="channels">Channels</h3>
-<p>Think of channels simply as a ‘pipe’ which takes information from a source and delivers it at the destination. The destination is where ‘subscribers’ are waiting to consume the information that is being transported.</p>
+<p>Think of channels simply as a ‘<strong>pipe</strong>’ which takes information from a source and delivers it at the destination. The destination is where ‘subscribers’ are waiting to consume the information that is being transported.</p>
 <p>Depending on the different types and structure the of information, there are different types of channels. The current channel types supported are -</p>
 <ul>
 <li><strong>Broadcast</strong></li>
