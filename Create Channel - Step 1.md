@@ -14,4 +14,6 @@ Pick either a custom logo (such as an image from your desktop) or from one of th
 <p>Select an appropriate channel category from the previously configured channel categories. If there are no custom channel categories defined then select the default.</p>
 <h3 id="select-roles">Select Roles</h3>
 <p>Select the different user roles (one or more, minimum one) in which the channel should be made available. Users who belong to a particular role will only see channels that are mapped to that particular role.</p>
+<h3 id="channel-description">Channel Description</h3>
+<p>Give the channel a brief description so that users get a preview on what the channel is about. This channel description is presented to users on the mobile app on the ‘Subscription’ page, helping users decide if they would want to subscribe to the channel.</p>
 
