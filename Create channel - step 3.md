@@ -24,3 +24,6 @@ On the mobile app the user can search, sort the entries based on the form field 
 <h2 id="content">Content</h2>
 <p>This is a simple content channel where the channel administrator can pre-populate a number of information elements. The same is rendered on the mobile app under this channel and users can access by simply scrolling up and down the various contents. Unlike a broadcast channel, no content is stored locally on the user’s mobile device. Instead, every time a user accesses content, the same is downloaded from the server. Users will need internet connectivity to access contents in ‘Content’ channels.</p>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0OTMyMzYzMTldfQ==
+-->
