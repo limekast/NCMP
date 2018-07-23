@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="getting-started">Getting Started</h1>
+<h1 id="overview">Overview</h1>
 <p>Now that you have come on board this <em><strong>No-Code Mobility Platform</strong></em>, please take a few minutes to go through this overview documentation which will help you get started with using the platform to manage your mobile app.</p>
 <p>For more detailed and elaborate documentation, look into the relevant sections of this document repository. There are contextual help available on each page, which will give an overview of the section as also suggested usages.</p>
 <h2 id="what-exactly-is-this-platform-about-">What exactly is this platform about ?</h2>
