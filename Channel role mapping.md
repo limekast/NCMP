@@ -5,8 +5,9 @@ For eg. an organization can have employees, dealers, vendors and other users. Ea
 A channel mapped to the role employee will be available to users who choose the role employee while installing the app.
 
 ## Will the role mapping capability be available by default ?
-- By default the app will not have any roles. For organizations who have the need to users roles to control channel level access
+- By default the app will not have any roles. Roles have to be enabled during app build for organizations who have the need to use roles to control channel level access
+Can the app roles be switched o
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg4NzU1NDk1LDUyMjIwMDE1XX0=
+eyJoaXN0b3J5IjpbLTExNDE3Mzc2MDAsNTIyMjAwMTVdfQ==
 -->
