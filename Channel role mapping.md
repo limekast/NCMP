@@ -10,6 +10,8 @@ A channel mapped to the role employee will be available to users who choose the 
 ## Can the app roles be switched off later on
 Once roles are enabled at the app level, it cannot be switched off.
 
+## Can a channel be mapped to multiple roles ?
+Yes, the app role mapping lists all roles 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0ODA1MTU4LDUyMjIwMDE1XX0=
+eyJoaXN0b3J5IjpbLTE0MTg2NDY4OTksNTIyMjAwMTVdfQ==
 -->
