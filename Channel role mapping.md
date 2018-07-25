@@ -8,8 +8,8 @@ A channel mapped to the role employee will be available to users who choose the 
 - By default the app will not have any roles. Roles have to be enabled during app build for organizations who have the need to use roles to control channel level access
 
 ## Can the app roles be switched off later on
-once roles are enabled at the app leve, cannot be switched off.
+Once roles are enabled at the app level, it cannot be switched off.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODExODc2NDMsNTIyMjAwMTVdfQ==
+eyJoaXN0b3J5IjpbMzk0ODA1MTU4LDUyMjIwMDE1XX0=
 -->
