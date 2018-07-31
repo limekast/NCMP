@@ -15,3 +15,6 @@ You will require forms for a survey, for including additional forms in the form 
 <strong>Form channel</strong> - all mapped forms will list on opening the channel in users phone<br>
 <strong>Cabinet channel</strong> -  while composing message within broadcast description where you have the option to choose text or the form template (when the content needs to sent in a desired format)</p>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk1OTI5NzA0MF19
+-->
