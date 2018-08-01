@@ -1,4 +1,5 @@
 # Subscribers
+Subscribers are end users who has installed  who consume the information that is made available on a channel.
 Lists the name, email id and mobile number of the users and the role (when the app is enabled for role) of all users who have subscribed to this channel 
 If the user has been invited under invitees then it shows **Yes** and **No** when the users have subscribed without invitation to the channel.
 The delete option allows admin to delete a user one at a time. The delete icon on the top will allow to delete all the users within the page. Enable the checkbox **"Delete content from user device as well"** if you want all the data to be wiped out from the channel for these users.
@@ -15,5 +16,5 @@ Request your service provider to enable the setting of install app only on singl
 ## Can a non invited user subscribe to the channel
 Subscription to a channel is based on channel properties configured for that channel. If  channel property is set for subscription by invitee only then a non invited user cannot be part of the channel
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1Njg2MDIwOV19
+eyJoaXN0b3J5IjpbLTYxNTE0OTYxNCwxNDU2ODYwMjA5XX0=
 -->
