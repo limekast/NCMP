@@ -7,7 +7,7 @@ Channel Administrators are allowed to assign one or more users as co-authors to 
 **Rejected content** - admin has the option to accept or reject a broadcast pending on them for approval. All rejected broadcasts will list here
 
 ## Can a broadcast which require admin approval be scheduled ?
-
+Yes, any broadcast message
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk5NDkyNF19
+eyJoaXN0b3J5IjpbMTU2Njk2MDI0Myw3OTk0OTI0XX0=
 -->
