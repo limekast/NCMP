@@ -10,5 +10,5 @@ Channel Administrators are allowed to assign one or more users as co-authors to 
 Yes, any broadcast message can be scheduled. The scheduled message will pend on the administrator for approval.
 The scheduled broadcast will be sent at the scheduled time or when the admin approves, whichever is later  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODY1NDg4LDc5OTQ5MjRdfQ==
+eyJoaXN0b3J5IjpbLTIwODY1NDg4XX0=
 -->
