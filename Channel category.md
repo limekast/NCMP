@@ -6,7 +6,7 @@ The category with the least sort order number appears first and the category wit
 ## When to use sort channels by category ?
 An educational institution can have categories like Students, Faculty, Admin, Stakeholders. Channels of a type/category can be grouped together. Channels for students can be configured under the category student 
 
-How is channel category 
+How is channel category differe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMjU3NTYyOCwyMDQwMTM2OTI0XX0=
+eyJoaXN0b3J5IjpbLTIwMTQ3NjA4MTksMjA0MDEzNjkyNF19
 -->
