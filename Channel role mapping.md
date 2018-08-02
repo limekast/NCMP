@@ -12,7 +12,10 @@ Once roles are enabled at the app level, it cannot be switched off.
 
 ## Can a channel be mapped to multiple roles ?
 Yes, the app role mapping allows mapping of multiple roles to a channel.
+
+## Changed app role not reflecting in portal ?
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDUzNjk3NiwtMTQ3MjQxMzkyNiw1Mj
-IyMDAxNV19
+eyJoaXN0b3J5IjpbMTU0NjQ1ODM3MSwtNTY0NTM2OTc2LC0xND
+cyNDEzOTI2LDUyMjIwMDE1XX0=
 -->
