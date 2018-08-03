@@ -1,8 +1,4 @@
----
-
-
----
-
+# Form Mapping
 <h1 id="form-mapping">Form Mapping</h1>
 <p>Allows to map a form to a channel</p>
 <p>Directory and Form channel creation requires form mapping in the step 2 of channel creation.<br>
@@ -16,5 +12,5 @@ You will require forms for a survey, for including additional forms in the form 
 <strong>Cabinet channel</strong> -  while composing message within broadcast description where you have the option to choose text or the form template (when the content needs to sent in a desired format)</p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1OTI5NzA0MF19
+eyJoaXN0b3J5IjpbLTE0NDczNjgyMjEsMTk1OTI5NzA0MF19
 -->
